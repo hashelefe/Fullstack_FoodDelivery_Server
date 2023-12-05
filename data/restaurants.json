@@ -7,7 +7,7 @@
             "minDelivery": 20,
             "openHour": "9:30 AM",
             "closeHour": "11:00 PM",
-            "img": "http://localhost:5000/assets/restaurants/1.png",
+            "img": "https://fooddelivery-api.onrender.com/assets/restaurants/1.png",
             "rating": 3
         },
         {
@@ -18,7 +18,7 @@
             "minDelivery": 15,
             "openHour": "7:30 AM",
             "closeHour": "11:00 PM",
-            "img": "http://localhost:5000/assets/restaurants/2.png",
+            "img": "https://fooddelivery-api.onrender.com/assets/restaurants/2.png",
             "rating": 4
         },
         {
@@ -29,7 +29,7 @@
             "minDelivery": 10,
             "openHour": "7:00 AM",
             "closeHour": "6:00 PM",
-            "img": "http://localhost:5000/assets/restaurants/3.png",
+            "img": "https://fooddelivery-api.onrender.com/assets/restaurants/3.png",
             "rating": 5
         },
         {
@@ -40,7 +40,7 @@
             "minDelivery": 30,
             "openHour": "12:00 PM",
             "closeHour": "9:00 PM",
-            "img": "http://localhost:5000/assets/restaurants/4.png",
+            "img": "https://fooddelivery-api.onrender.com/assets/restaurants/4.png",
             "rating": 3
         },
         {
@@ -51,7 +51,7 @@
             "minDelivery": 15,
             "openHour": "11:30 AM",
             "closeHour": "10:30 PM",
-            "img": "http://localhost:5000/assets/restaurants/5.png",
+            "img": "https://fooddelivery-api.onrender.com/assets/restaurants/5.png",
             "rating": 2
         },
         {
@@ -62,7 +62,7 @@
             "minDelivery": 25,
             "openHour": "11:00 AM",
             "closeHour": "9:00 PM",
-            "img": "http://localhost:5000/assets/restaurants/6.png",
+            "img": "https://fooddelivery-api.onrender.com/assets/restaurants/6.png",
             "rating": 5
         },
         {
@@ -73,7 +73,7 @@
             "minDelivery": 20,
             "openHour": "12:00 PM",
             "closeHour": "10:00 PM",
-            "img": "http://localhost:5000/assets/restaurants/7.png",
+            "img": "https://fooddelivery-api.onrender.com/assets/restaurants/7.png",
             "rating": 3
         },
         {
@@ -84,7 +84,7 @@
             "minDelivery": 30,
             "openHour": "10:00 AM",
             "closeHour": "9:00 PM",
-            "img": "http://localhost:5000/assets/restaurants/8.png",
+            "img": "https://fooddelivery-api.onrender.com/assets/restaurants/8.png",
             "rating": 4
         },
         {
@@ -95,7 +95,7 @@
             "minDelivery": 15,
             "openHour": "11:30 AM",
             "closeHour": "8:30 PM",
-            "img": "http://localhost:5000/assets/restaurants/9.png",
+            "img": "https://fooddelivery-api.onrender.com/assets/restaurants/9.png",
             "rating": 3
         },
         {
@@ -106,7 +106,7 @@
             "minDelivery": 35,
             "openHour": "12:00 PM",
             "closeHour": "9:30 PM",
-            "img": "http://localhost:5000/assets/restaurants/10.png",
+            "img": "https://fooddelivery-api.onrender.com/assets/restaurants/10.png",
             "rating": 4
         },
         {
@@ -117,7 +117,7 @@
             "minDelivery": 40,
             "openHour": "5:00 PM",
             "closeHour": "11:00 PM",
-            "img": "http://localhost:5000/assets/restaurants/11.png",
+            "img": "https://fooddelivery-api.onrender.com/assets/restaurants/11.png",
             "rating": 3
         },
         {
@@ -128,7 +128,7 @@
             "minDelivery": 25,
             "openHour": "11:30 AM",
             "closeHour": "10:30 PM",
-            "img": "http://localhost:5000/assets/restaurants/12.png",
+            "img": "https://fooddelivery-api.onrender.com/assets/restaurants/12.png",
             "rating": 4
         },
         {
@@ -139,7 +139,7 @@
             "minDelivery": 30,
             "openHour": "12:00 PM",
             "closeHour": "9:00 PM",
-            "img": "http://localhost:5000/assets/restaurants/13.png",
+            "img": "https://fooddelivery-api.onrender.com/assets/restaurants/13.png",
             "rating": 5
         },
         {
@@ -150,7 +150,7 @@
             "minDelivery": 35,
             "openHour": "5:30 PM",
             "closeHour": "11:00 PM",
-            "img": "http://localhost:5000/assets/restaurants/14.png",
+            "img": "https://fooddelivery-api.onrender.com/assets/restaurants/14.png",
             "rating": 5
         },
         {
@@ -161,7 +161,7 @@
             "minDelivery": 20,
             "openHour": "12:00 PM",
             "closeHour": "9:00 PM",
-            "img": "http://localhost:5000/assets/restaurants/15.png",
+            "img": "https://fooddelivery-api.onrender.com/assets/restaurants/15.png",
             "rating": 5
         },
         {
@@ -172,7 +172,7 @@
             "minDelivery": 15,
             "openHour": "11:00 AM",
             "closeHour": "8:00 PM",
-            "img": "http://localhost:5000/assets/restaurants/16.png",
+            "img": "https://fooddelivery-api.onrender.com/assets/restaurants/16.png",
             "rating": 3
         },
         {
@@ -183,7 +183,7 @@
             "minDelivery": 40,
             "openHour": "6:00 PM",
             "closeHour": "11:00 PM",
-            "img": "http://localhost:5000/assets/restaurants/17.png",
+            "img": "https://fooddelivery-api.onrender.com/assets/restaurants/17.png",
             "rating": 2
         },
         {
@@ -194,7 +194,7 @@
             "minDelivery": 20,
             "openHour": "11:30 AM",
             "closeHour": "9:30 PM",
-            "img": "http://localhost:5000/assets/restaurants/18.png",
+            "img": "https://fooddelivery-api.onrender.com/assets/restaurants/18.png",
             "rating": 1
         },
         {
@@ -205,7 +205,7 @@
             "minDelivery": 25,
             "openHour": "12:00 PM",
             "closeHour": "10:00 PM",
-            "img": "http://localhost:5000/assets/restaurants/19.png",
+            "img": "https://fooddelivery-api.onrender.com/assets/restaurants/19.png",
             "rating": 4
         },
         {
@@ -216,7 +216,7 @@
             "minDelivery": 10,
             "openHour": "7:00 AM",
             "closeHour": "6:00 PM",
-            "img": "http://localhost:5000/assets/restaurants/20.png",
+            "img": "https://fooddelivery-api.onrender.com/assets/restaurants/20.png",
             "rating": 2
         },
         {
@@ -227,7 +227,7 @@
             "minDelivery": 30,
             "openHour": "11:30 AM",
             "closeHour": "10:30 PM",
-            "img": "http://localhost:5000/assets/restaurants/21.png",
+            "img": "https://fooddelivery-api.onrender.com/assets/restaurants/21.png",
             "rating": 5
         },
         {
@@ -238,7 +238,7 @@
             "minDelivery": 20,
             "openHour": "11:00 AM",
             "closeHour": "9:00 PM",
-            "img": "http://localhost:5000/assets/restaurants/22.png",
+            "img": "https://fooddelivery-api.onrender.com/assets/restaurants/22.png",
             "rating": 4
         },
         {
@@ -249,7 +249,7 @@
             "minDelivery": 15,
             "openHour": "12:00 PM",
             "closeHour": "10:30 PM",
-            "img": "http://localhost:5000/assets/restaurants/23.png",
+            "img": "https://fooddelivery-api.onrender.com/assets/restaurants/23.png",
             "rating": 3
         },
         {
@@ -260,7 +260,7 @@
             "minDelivery": 25,
             "openHour": "11:00 AM",
             "closeHour": "10:00 PM",
-            "img": "http://localhost:5000/assets/restaurants/24.png",
+            "img": "https://fooddelivery-api.onrender.com/assets/restaurants/24.png",
             "rating": 4
         },
         {
@@ -271,7 +271,7 @@
             "minDelivery": 30,
             "openHour": "10:00 AM",
             "closeHour": "9:00 PM",
-            "img": "http://localhost:5000/assets/restaurants/25.png",
+            "img": "https://fooddelivery-api.onrender.com/assets/restaurants/25.png",
             "rating": 2
         },
         {
@@ -282,7 +282,7 @@
             "minDelivery": 35,
             "openHour": "12:00 PM", 
             "closeHour": "9:30 PM",
-            "img": "http://localhost:5000/assets/restaurants/26.png",
+            "img": "https://fooddelivery-api.onrender.com/assets/restaurants/26.png",
             "rating": 4
         }
 ]
