@@ -26,7 +26,7 @@ const handleRegister = async (req, res) => {
         const hashedPassword = await bcrypt.hash(password,10);
         const newUser = { 
           "id": userId,
-           username,
+          "username": username,
           "password": hashedPassword };
         usersDB.setUsers([...usersDB.users, newUser])
         await fsPromises.writeFile(
@@ -34,7 +34,7 @@ const handleRegister = async (req, res) => {
             JSON.stringify(usersDB.users)
         );
         console.log(usersDB.users);
-        res.status(201).json({'success':`New user ${newUser} created`})
+        res.status(201).json({'success':`New user ${newUser.username} created`})
     } catch(err) { 
         res.status(500).json({'message': err.message})
     }
