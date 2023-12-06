@@ -1,0 +1,2 @@
+20231207	00:10:24	db6d40d6-c30d-41ac-937d-9edd1abbbf7f	TypeError: Cannot read properties of undefined (reading 'username')
+20231207	00:11:15	0f05bd1b-60ba-4832-af56-1dcdf0eaccda	TypeError: Cannot read properties of undefined (reading 'username')

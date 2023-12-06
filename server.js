@@ -1,9 +1,12 @@
+require('dotenv').config();
 const express = require('express');
 const fs = require("fs");
 const app = express();
 const port = 5000;
 const cors = require('cors');
 const path = require('path')
+const mongoose = require('mongoose');
+const connectDB = require('./config/dbConn.js')
 const bodyParser = require('body-parser');
 
 const cookieParser = require('cookie-parser');
@@ -13,11 +16,16 @@ const verifyJWT = require('./middleware/verifyJWT.js');
 const { logger } = require('./middleware/logEvents.js');
 const errorHandler = require('./middleware/errorHandler.js');
 
+//Connection to datbase
+connectDB();
+
+//Logger and cors config init
 app.use(logger);
 app.use(credentials);
 app.use(cors(corsOptions));
 
-app.use('/assets', express.static('assets/')); //Access to images in assets
+//Allowing images from assets to be accessed throught API
+app.use('/assets', express.static('assets/')); 
 
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: false}));
@@ -41,4 +49,8 @@ app.use('/api/blogs', require('./api/blogsAuthorized.js')) //Authorized Actions 
 
 app.use(errorHandler);
 
-app.listen(port, () => {console.log("Server runs on port " + port)});
+mongoose.connection.once('open', () => {
+    console.log('Connected to database')
+    app.listen(port, () => {console.log("Server runs on port " + port)});
+})
+
